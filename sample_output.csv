@@ -1,0 +1,4 @@
+workflow_id,data_source,status,records_processed,processed_at
+1,CRM,success,250,2026-05-13 10:15:01
+2,Orders API,success,180,2026-05-13 10:15:03
+3,Inventory API,success,95,2026-05-13 10:15:05
